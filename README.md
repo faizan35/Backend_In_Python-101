@@ -1,5 +1,7 @@
 # Backend In Python-101 <img src="./Img/python.png" width="35">
 
+# < --- In Progress --- >
+
 Learn the essentials of Python backend development through a structured and practical approach, suitable for beginners and intermediate learners.
 
 ## Table of Contents
@@ -11,16 +13,22 @@ Learn the essentials of Python backend development through a structured and prac
     - Overview of Python
     - Install a code editor (e.g., VSCode, PyCharm).
 
-2.  **[Control Flow:](./M-1/02-Control-Flow.md)**
+2.  **[Python Basics:](./M-1/02-Basics.md)**
+
+    - Comments, Variables, Data Types, Numbers, Casting.
+    - Strings, Booleans, Operators.
+
+3.  **[Control Flow:](./M-1/03-Control-Flow.md)**
 
     - If statements, loops, and basic control flow.
-    - Exception handling.
 
-3.  **[Functions:](./M-1/03-Functions.md)**
+4.  **[Functions:](./M-1/04-Functions.md)**
 
     - Defining functions.
     - Parameters and return values.
     - Lambda functions.
+
+5.  **[Exercises:](./M-1/05-Exercises.md)**
 
 ### Module 2: Advanced Python Concepts
 
