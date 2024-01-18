@@ -96,7 +96,7 @@
 
 ### 1. **Visual Studio Code (VSCode):**
 
-- Download and install VSCode from the official VSCode website.
+- Download and install VSCode from the [official VSCode website](https://code.visualstudio.com/download).
 - Open VSCode and install Python extension for VSCode from the Extensions view (`Ctrl+Shift+X`).
 
 ---
